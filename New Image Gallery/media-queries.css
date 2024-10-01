@@ -1,0 +1,151 @@
+@media (max-width: 990px) {
+  header p {
+    font-size: 54px;
+  }
+}
+@media (max-width: 890px) {
+  header p {
+    font-size: 50px;
+  }
+}
+@media (max-width: 830px) {
+  header p {
+    font-size: 48px;
+  }
+}
+@media (max-width: 790px) {
+  header p {
+    font-size: 45px;
+  }
+  .imagegallery {
+    width: calc(48.87% - 9px);
+    margin: 5px;
+  }
+}
+@media (max-width: 740px) {
+  header p {
+    font-size: 40px;
+  }
+  .imagegallery {
+    width: calc(50.87% - 29px);
+    margin: 5px;
+  }
+}
+@media (max-width: 660px) {
+  header p {
+    font-size: 38px;
+  }
+  .imagegallery {
+    width: calc(55.87% - 50px);
+    margin: 5px;
+  }
+}
+
+@media (max-width: 630px) {
+  header p {
+    font-size: 35px;
+  }
+}
+@media (max-width: 580px) {
+  header p {
+    font-size: 32px;
+  }
+  .imagegallery {
+    width: calc(53.87% - 40px);
+    margin: 5px;
+  }
+}
+
+@media (max-width: 530px) {
+  header p {
+    font-size: 30px;
+  }
+  .imagegallery {
+    width: calc(100% - 10px);
+    margin: 5px;
+  }
+}
+
+@media (max-width: 500px) {
+  header p {
+    font-size: 28px;
+  }
+  .footer p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 460px) {
+  header p {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 430px) {
+  header p {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 400px) {
+  header p {
+    font-size: 22px;
+  }
+  .footer p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 380px) {
+  header p {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 330px) {
+  header p {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 300px) {
+  header p {
+    font-size: 16px;
+  }
+  .footer p {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 270px) {
+  header p {
+    font-size: 15px;
+  }
+  .footer p {
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 250px) {
+  header p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 230px) {
+  header p {
+    font-size: 12px;
+  }
+  .footer p {
+    font-size: 9px;
+  }
+}
+
+@media (max-width: 200px) {
+  header p {
+    font-size: 10px;
+  }
+  .footer p {
+    font-size: 8px;
+  }
+}
